@@ -7,4 +7,5 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-baimiwifi version 2017-08-23}
+baimiwifi version 2017-08-23\
+chefil}
